@@ -1,0 +1,20 @@
+oin_file: Orbits
+name ocut3.oin
+H-representation
+ordered
+no diagonal
+total 9
+begin
+	2 3 integer
+	2,1	3,1	1,2	3,2	1,3	2,3	inc	s
+	-1	1	1	5	-1	1	4	6	A32
+	-1	1	-1	1	1	1	4	3	B1
+end
+* final inequalities
+*	0	0	0	1	0	0	4	6	L32 = (A32 + X132)/6
+*	0	0	-1	1	1	0	4	3	Tr12,3 = (B1 + X132)/2
+*	-1	1	0	0	0	1	4	3	Tr21,3 = (B1 - X132)/2
+nullspace
+	1
+	1	-1	-1	1	1	-1			X132
+end

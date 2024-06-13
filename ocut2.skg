@@ -1,0 +1,13 @@
+skg_file: Skeleton graph
+name ocut2.skg
+vertices 2
+diameter 1
+adjacencies
+	1 2 integer
+	2,1	1,2	2,1	1,2	s
+	0	1	1	0	1
+end
+collapsed adjacency matrix
+	1
+	1
+end

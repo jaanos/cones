@@ -1,0 +1,19 @@
+* cddlib: a double description library:Version 0.94f (February 7, 2008)
+* compiled for GMP rational arithmetic.
+* Copyright (C) 1996, Komei Fukuda, fukuda@ifor.math.ethz.ch
+* roworder: lexmin
+ext_file: Generators
+V-representation
+begin
+ 6 7 integer
+ 0 0 1 0 1 0 0
+ 0 0 0 0 1 1 0
+ 0 0 1 2 0 1 0
+ 0 2 1 0 1 0 0
+ 0 0 1 0 0 1 0
+ 0 0 0 0 1 1 2
+end
+* Computation started at Tue Dec 21 21:55:57 2010
+*             ended   at Thu Jan  1 01:00:00 1970
+* Total processor time = -1292964957 seconds
+*                      = -359156 h -55 m -57 s

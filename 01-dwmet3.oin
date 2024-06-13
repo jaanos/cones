@@ -1,0 +1,14 @@
+oin_file: Orbits
+name 01-dwmet3.oin
+H-representation
+unordered
+diagonal
+total 15
+begin
+	4 3 integer
+	1,1	1,2	2,2	1,3	2,3	3,3	inc	s
+	0	-1	0	1	1	0	7	3
+	0	0	1	0	1	-1	6	6
+	1	0	0	0	0	0	6	3
+	2	-1	2	1	1	-2	5	3
+end

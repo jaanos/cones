@@ -1,0 +1,16 @@
+oex_file: Orbits
+name wqmet3.oex
+V-representation
+ordered
+no diagonal
+total 6
+begin
+	2 3 integer
+	2,1	3,1	1,2	3,2	1,3	2,3	inc	s
+	1	0	0	0	0	1	6	3
+	1	1	0	0	0	0	6	3
+end
+nullspace
+	1
+	1	-1	-1	1	1	-1
+end

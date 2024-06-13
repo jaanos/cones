@@ -1,0 +1,18 @@
+skg_file: Skeleton graph
+name cut5.skg
+vertices 15
+diameter 1
+adjacencies
+	5 5 integer
+	1,2	1,3	2,3	1,4	2,4	3,4	1,5	2,5	3,5	4,5	1,2	1,3	2,3	1,4	2,4	3,4	1,5	2,5	3,5	4,5	s
+	0	1	1	1	1	0	1	1	0	0	1	1	0	0	1	1	0	1	1	0	30
+	0	1	1	1	1	0	1	1	0	0	0	1	1	0	0	1	0	0	1	0	30
+	0	1	1	1	1	0	1	1	0	0	1	1	0	1	0	0	1	0	0	0	20
+	0	1	1	1	1	0	1	1	0	0	0	1	1	1	1	0	0	0	1	1	15
+	1	1	0	1	0	0	1	0	0	0	1	0	1	0	1	0	0	1	0	0	10
+end
+collapsed adjacency matrix
+	2
+	9	5
+	10	4
+end

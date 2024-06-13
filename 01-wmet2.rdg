@@ -1,0 +1,15 @@
+rdg_file: Ridge graph
+name 01-wmet2.rdg
+vertices 3
+diameter 1
+adjacencies
+	2 2 integer
+	1,1	1,2	2,2	1,1	1,2	2,2	s
+	0	0	1	0	1	0	2
+	0	0	1	1	0	0	1
+end
+collapsed adjacency matrix
+	2
+	1	1
+	2	0
+end

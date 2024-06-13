@@ -1,0 +1,16 @@
+oin_file: Orbits
+name nmet2.oin
+H-representation
+unordered
+diagonal
+total 1
+begin
+	1 2 integer
+	1,1	1,2	2,2	inc	s
+	-1	2	-1	0	1
+end
+nullspace
+	2
+	2	1	0
+	0	1	2
+end

@@ -1,0 +1,20 @@
+oex_file: Orbits
+name wqmet4.oex
+V-representation
+ordered
+no diagonal
+total 20
+begin
+	4 4 integer
+	2,1	3,1	4,1	1,2	3,2	4,2	1,3	2,3	4,3	1,4	2,4	3,4	inc	s
+	0	0	1	0	0	1	0	0	1	0	0	0	18	4
+	1	1	1	0	0	0	0	0	0	0	0	0	18	4
+	0	1	1	0	1	1	0	0	0	0	0	0	16	6
+	1	1	1	0	0	1	1	1	1	0	1	0	8	6
+end
+nullspace
+	3
+	1	0	-1	-1	0	1	0	0	0	1	-1	0
+	0	1	-1	0	0	0	-1	0	1	1	0	-1
+	0	0	0	0	1	-1	0	-1	1	0	1	-1
+end

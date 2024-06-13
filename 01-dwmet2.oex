@@ -1,0 +1,13 @@
+oex_file: Orbits
+name 01-dwmet2.oex
+V-representation
+unordered
+diagonal
+total 4
+begin
+	3 2 integer
+	1,1	1,2	2,2	inc	s
+	0	1	1	2	2
+	0	1	0	2	1
+	1	0	1	2	1
+end

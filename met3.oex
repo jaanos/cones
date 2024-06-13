@@ -1,0 +1,11 @@
+oex_file: Orbits
+name met3.oex
+V-representation
+unordered
+no diagonal
+total 3
+begin
+	1 3 integer
+	1,2	1,3	2,3	inc	s
+	0	1	1	2	3
+end

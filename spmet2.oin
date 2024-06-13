@@ -1,0 +1,12 @@
+oin_file: Orbits
+name spmet2.oin
+H-representation
+unordered
+diagonal
+total 3
+begin
+	2 2 integer
+	1,1	1,2	2,2	inc	s
+	-1	1	0	2	2
+	1	-1	1	2	1
+end

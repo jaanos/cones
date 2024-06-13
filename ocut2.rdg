@@ -1,0 +1,13 @@
+rdg_file: Ridge graph
+name ocut2.rdg
+vertices 2
+diameter 1
+adjacencies
+	1 2 integer
+	2,1	1,2	2,1	1,2	s
+	1	0	0	1	1
+end
+collapsed adjacency matrix
+	1
+	1
+end

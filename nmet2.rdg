@@ -1,0 +1,12 @@
+rdg_file: Ridge graph
+name nmet2.rdg
+vertices 1
+diameter 0
+adjacencies
+	0 2 integer
+	1,1	1,2	2,2	1,1	1,2	2,2	s
+end
+collapsed adjacency matrix
+	1
+	0
+end

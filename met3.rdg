@@ -1,0 +1,13 @@
+rdg_file: Ridge graph
+name met3.rdg
+vertices 3
+diameter 1
+adjacencies
+	1 3 integer
+	1,2	1,3	2,3	1,2	1,3	2,3	s
+	1	1	-1	1	-1	1	3
+end
+collapsed adjacency matrix
+	1
+	2
+end

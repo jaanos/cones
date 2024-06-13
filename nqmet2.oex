@@ -1,0 +1,17 @@
+oex_file: Orbits
+name nqmet2.oex
+V-representation
+ordered
+diagonal
+total 1
+begin
+	1 2 integer
+	1,1	2,1	1,2	2,2	inc	s
+	-1	1	1	-1	0	1
+end
+nullspace
+	3
+	1	0	1	0
+	0	1	0	1
+	0	0	1	1
+end

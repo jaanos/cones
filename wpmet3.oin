@@ -1,0 +1,12 @@
+oin_file: Orbits
+name wpmet3.oin
+H-representation
+unordered
+diagonal
+total 6
+begin
+	2 3 integer
+	1,1	1,2	2,2	1,3	2,3	3,3	inc	s
+	0	1	-1	-1	1	0	5	3
+	1	0	0	0	0	0	5	3
+end

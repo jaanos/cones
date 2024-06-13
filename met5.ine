@@ -1,0 +1,43 @@
+* cddlib: a double description library:Version 0.94f (February 7, 2008)
+* compiled for GMP integer arithmetic.
+* Copyright (C) 1996, Komei Fukuda, fukuda@ifor.math.ethz.ch
+* roworder: lexmin
+ine_file: Inequalities
+H-representation
+begin
+ 30 11 integer
+ 0 -1 1 1 0 0 0 0 0 0 0
+ 0 0 0 0 -1 0 0 1 0 0 1
+ 0 0 1 0 -1 0 1 0 0 0 0
+ 0 0 0 0 0 -1 0 0 1 0 1
+ 0 0 0 0 0 0 1 0 0 -1 1
+ 0 0 0 1 0 -1 1 0 0 0 0
+ 0 0 0 1 0 0 0 0 1 -1 0
+ 0 0 1 0 0 0 0 1 0 -1 0
+ 0 1 0 0 1 -1 0 0 0 0 0
+ 0 1 0 0 0 0 0 -1 1 0 0
+ 0 1 1 -1 0 0 0 0 0 0 0
+ 0 1 0 0 0 0 0 1 -1 0 0
+ 0 1 0 0 -1 1 0 0 0 0 0
+ 0 1 -1 1 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 -1 0 0 1 1
+ 0 0 0 0 0 1 0 0 -1 0 1
+ 0 0 0 1 0 0 0 0 -1 1 0
+ 0 0 1 0 0 0 0 -1 0 1 0
+ 0 0 0 0 1 0 0 -1 0 0 1
+ 0 0 1 0 1 0 -1 0 0 0 0
+ 0 0 0 1 0 1 -1 0 0 0 0
+ 0 -1 0 0 1 1 0 0 0 0 0
+ 0 0 -1 0 0 0 0 1 0 1 0
+ 0 0 0 0 0 0 1 0 0 1 -1
+ 0 0 0 -1 0 0 0 0 1 1 0
+ 0 0 0 -1 0 1 1 0 0 0 0
+ 0 0 -1 0 1 0 1 0 0 0 0
+ 0 0 0 0 0 1 0 0 1 0 -1
+ 0 0 0 0 1 0 0 1 0 0 -1
+ 0 -1 0 0 0 0 0 1 1 0 0
+end
+* Computation started at Wed Oct 27 12:56:10 2010
+*             ended   at Wed Oct 27 12:56:10 2010
+* Total processor time = 0 seconds
+*                      = 0 h 0 m 0 s

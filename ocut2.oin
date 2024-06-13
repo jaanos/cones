@@ -1,0 +1,11 @@
+oin_file: Orbits
+name ocut2.oin
+H-representation
+ordered
+no diagonal
+total 2
+begin
+	1 2 integer
+	2,1	1,2	inc	s
+	1	0	1	2
+end

@@ -1,0 +1,17 @@
+skg_file: Skeleton graph
+name wqmet3.skg
+vertices 6
+diameter 1
+adjacencies
+	4 3 integer
+	2,1	3,1	1,2	3,2	1,3	2,3	2,1	3,1	1,2	3,2	1,3	2,3	s
+	1	0	0	0	0	1	1	1	0	0	0	0	6
+	1	0	0	0	0	1	0	1	0	1	0	0	3
+	1	0	0	0	0	1	0	0	1	1	0	0	3
+	1	1	0	0	0	0	0	0	1	1	0	0	3
+end
+collapsed adjacency matrix
+	2
+	2	3
+	3	2
+end
