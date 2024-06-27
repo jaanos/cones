@@ -1,0 +1,931 @@
+- cone: 01-dwmet2
+  dim: 3
+  oex:
+    num: 4
+    orb: 3
+  oin:
+    num: 4
+    orb: 2
+- cone: 01-dwmet3
+  dim: 6
+  oex:
+    num: 10
+    orb: 4
+  oin:
+    num: 15
+    orb: 4
+  rdg:
+    diam: 2
+    pdf: true
+  skg:
+    compl: true
+    diam: 2
+    pdf: true
+- cone: 01-dwmet4
+  dim: 10
+  oex:
+    num: 22
+    orb: 6
+  oin:
+    num: 62
+    orb: 7
+  rdg:
+    diam: 3
+  skg:
+    diam: 2
+- cone: 01-dwmet5
+  dim: 15
+  oex:
+    num: 46
+    orb: 7
+  oin:
+    num: 1165
+    orb: 27
+  rdg:
+    diam: 3
+  skg:
+    diam: 2
+- cone: 01-dwmet6
+  dim: 21
+  oex:
+    num: 94
+    orb: 9
+  oin:
+    num: 369401
+    orb: 806
+  skg:
+    diam: 2
+- cone: 01-pmet3
+  dim: 6
+  oex:
+    num: 13
+    orb: 5
+  oin:
+    num: 12
+    orb: 3
+  rdg:
+    diam: 2
+  skg:
+    diam: 3
+- cone: 01-pmet4
+  dim: 10
+  ead: {}
+  ecd: {}
+  ext: {}
+  iad: {}
+  icd: {}
+  ine: {}
+  oex:
+    num: 44
+    orb: 9
+  oin:
+    num: 46
+    orb: 5
+  rdg:
+    diam: 2
+  skg:
+    diam: 3
+- cone: 01-pmet5
+  dim: 15
+  ead: {}
+  ecd: {}
+  ext: {}
+  iad: {}
+  icd: {}
+  ine: {}
+  oex:
+    num: 166
+    orb: 14
+  oin:
+    num: 585
+    orb: 15
+  rdg:
+    diam: 3
+  skg:
+    diam: 3
+- cone: 01-pmet6
+  dim: 21
+  oex:
+    num: 705
+    orb: 22
+- cone: 01-spmet4
+  dim: 10
+  oex:
+    num: 15
+    orb: 4
+  oin:
+    num: 40
+    orb: 5
+- cone: 01-spmet5
+  dim: 15
+  oex:
+    num: 31
+    orb: 5
+  oin:
+    num: 210
+    orb: 12
+- cone: 01-spmet6
+  dim: 21
+  oex:
+    num: 63
+    orb: 6
+  oin:
+    num: 38780
+    orb: 145
+- cone: 01-wmet2
+  dim: 3
+  oex:
+    num: 3
+    orb: 2
+  oin:
+    num: 3
+    orb: 2
+  rdg:
+    diam: 1
+  skg:
+    diam: 1
+- cone: 01-wmet3
+  dim: 6
+  oex:
+    num: 6
+    orb: 2
+  oin:
+    num: 6
+    orb: 2
+  rdg:
+    diam: 1
+  skg:
+    diam: 1
+- cone: 01-wmet4
+  dim: 10
+  oex:
+    num: 11
+    orb: 3
+  oin:
+    num: 16
+    orb: 2
+  rdg:
+    diam: 2
+  skg:
+    diam: 1
+- cone: 01-wmet5
+  dim: 15
+  oex:
+    num: 20
+    orb: 3
+  oin:
+    num: 45
+    orb: 3
+  rdg:
+    diam: 2
+  skg:
+    diam: 1
+- cone: 01-wmet6
+  dim: 21
+  oex:
+    num: 37
+    orb: 4
+  oin:
+    num: 216
+    orb: 5
+  rdg:
+    diam: 2
+  skg:
+    diam: 1
+- cone: 01-wqmet5
+  dim: 20
+  'null': 6
+  oex:
+    num: 110
+    orb: 8
+  oin:
+    num: 250
+    orb: 5
+  rdg:
+    diam: 2
+  skg:
+    diam: 2
+- cone: 01-wqmet6
+  dim: 30
+  oex:
+    num: 802
+    orb: 17
+- cone: cut4
+  dim: 6
+  oex:
+    num: 7
+    orb: 2
+  oin:
+    num: 12
+    orb: 1
+  rdg:
+    diam: 2
+  skg:
+    diam: 1
+- cone: cut5
+  dim: 10
+  ead: {}
+  ecd: {}
+  ext: {}
+  iad: {}
+  icd: {}
+  ine: {}
+  oex:
+    num: 15
+    orb: 2
+  oin:
+    num: 40
+    orb: 2
+  rdg:
+    diam: 2
+  skg:
+    diam: 1
+- cone: cut6
+  dim: 15
+  ead: {}
+  ecd: {}
+  ext: {}
+  iad: {}
+  icd: {}
+  ine: {}
+  oex:
+    num: 31
+    orb: 3
+  oin:
+    num: 210
+    orb: 4
+  rdg:
+    diam: 3
+  skg:
+    diam: 1
+- cone: dwmet2
+  dim: 3
+  oex:
+    num: 4
+    orb: 3
+  oin:
+    num: 4
+    orb: 2
+- cone: dwmet3
+  dim: 6
+  oex:
+    num: 13
+    orb: 5
+  oin:
+    num: 12
+    orb: 3
+- cone: dwmet4
+  dim: 10
+  oex:
+    num: 62
+    orb: 11
+  oin:
+    num: 28
+    orb: 3
+- cone: dwmet5
+  dim: 15
+  oex:
+    num: 1696
+    orb: 44
+  oin:
+    num: 55
+    orb: 3
+- cone: dwmet6
+  dim: 21
+  oex:
+    num: 337092
+    orb: 734
+  oin:
+    num: 96
+    orb: 3
+- cone: met3
+  dim: 3
+  ead: {}
+  ecd: {}
+  ext: {}
+  iad: {}
+  icd: {}
+  ine: {}
+  oex:
+    num: 3
+    orb: 1
+  oin:
+    num: 3
+    orb: 1
+  png: true
+  rdg:
+    diam: 1
+  skg:
+    diam: 1
+- cone: met4
+  dim: 6
+  ead: {}
+  ecd: {}
+  ext: {}
+  iad: {}
+  icd: {}
+  ine: {}
+  oex:
+    num: 7
+    orb: 2
+  oin:
+    num: 12
+    orb: 1
+  rdg:
+    diam: 2
+  skg:
+    diam: 1
+- cone: met5
+  dim: 10
+  ead: {}
+  ecd: {}
+  ext: {}
+  iad: {}
+  icd: {}
+  ine: {}
+  oex:
+    num: 25
+    orb: 3
+  oin:
+    num: 30
+    orb: 1
+  rdg:
+    diam: 2
+  skg:
+    diam: 2
+- cone: met6
+  dim: 15
+  ead: {}
+  ecd: {}
+  ext: {}
+  iad: {}
+  icd: {}
+  ine: {}
+  oex:
+    num: 296
+    orb: 8
+  oin:
+    num: 60
+    orb: 1
+  rdg:
+    diam: 2
+  skg:
+    diam: 2
+- cone: nmet2
+  dim: 3
+  'null': 2
+  oex:
+    num: 1
+    orb: 1
+  oin:
+    num: 1
+    orb: 1
+  rdg: {}
+  skg: {}
+- cone: nmet3
+  dim: 6
+  'null': 3
+  oex:
+    num: 3
+    orb: 1
+  oin:
+    num: 3
+    orb: 1
+  rdg:
+    diam: 1
+  skg:
+    diam: 1
+- cone: nmet4
+  dim: 10
+  'null': 4
+  oex:
+    num: 7
+    orb: 2
+  oin:
+    num: 12
+    orb: 1
+  rdg:
+    diam: 2
+  skg:
+    diam: 1
+- cone: nmet5
+  dim: 15
+  'null': 5
+  oex:
+    num: 25
+    orb: 3
+  oin:
+    num: 30
+    orb: 1
+  rdg:
+    diam: 2
+  skg:
+    diam: 2
+- cone: nmet6
+  dim: 21
+  'null': 6
+  oex:
+    num: 296
+    orb: 8
+  oin:
+    num: 60
+    orb: 1
+  rdg:
+    diam: 2
+  skg:
+    diam: 2
+- cone: nmet7
+  dim: 28
+  'null': 7
+  oex:
+    num: 55226
+    orb: 46
+  oin:
+    num: 105
+    orb: 1
+  rdg:
+    diam: 2
+- cone: nqmet2
+  dim: 4
+  'null': 3
+  oex:
+    num: 1
+    orb: 1
+  oin:
+    num: 1
+    orb: 1
+  rdg: {}
+  skg: {}
+- cone: nqmet3
+  dim: 9
+  'null': 5
+  oex:
+    num: 5
+    orb: 2
+  oin:
+    num: 6
+    orb: 1
+  rdg:
+    diam: 2
+  skg:
+    diam: 2
+- cone: nqmet4
+  dim: 16
+  'null': 7
+  oex:
+    num: 37
+    orb: 5
+  oin:
+    num: 24
+    orb: 1
+  rdg:
+    diam: 2
+  skg:
+    diam: 2
+- cone: nqmet5
+  dim: 25
+  'null': 9
+  oex:
+    num: 2333
+    orb: 33
+  oin:
+    num: 60
+    orb: 1
+  rdg:
+    diam: 2
+  skg:
+    diam: 3
+- cone: nqmet6
+  dim: 36
+  'null': 11
+  oin:
+    num: 120
+    orb: 1
+- cone: nqmet7
+  dim: 49
+  'null': 13
+  oin:
+    num: 210
+    orb: 1
+- cone: ocut2
+  dim: 2
+  oex:
+    num: 2
+    orb: 1
+  oin:
+    num: 2
+    orb: 1
+  rdg:
+    diam: 1
+  skg:
+    diam: 1
+- cone: ocut3
+  dim: 6
+  'null': 1
+  oex:
+    num: 6
+    orb: 2
+  oin:
+    num: 9
+    orb: 2
+  rdg:
+    diam: 2
+  skg:
+    diam: 1
+- cone: ocut4
+  dim: 12
+  'null': 3
+  oex:
+    num: 14
+    orb: 3
+  oin:
+    num: 30
+    orb: 3
+  rdg:
+    diam: 2
+  skg:
+    diam: 1
+- cone: ocut5
+  dim: 20
+  'null': 6
+  oex:
+    num: 30
+    orb: 4
+  oin:
+    num: 130
+    orb: 6
+  rdg:
+    diam: 3
+  skg:
+    diam: 1
+- cone: ocut6
+  dim: 30
+  'null': 10
+  oex:
+    num: 62
+    orb: 5
+  oin:
+    num: 16460
+    orb: 61
+  skg:
+    diam: 1
+- cone: owhyp5
+  dim: 20
+  'null': 6
+  oex:
+    num: 70
+    orb: 6
+  oin:
+    num: 90
+    orb: 4
+  rdg:
+    diam: 2
+  skg:
+    diam: 2
+- cone: phyp4
+  dim: 10
+  oex:
+    num: 56
+    orb: 10
+  oin:
+    num: 34
+    orb: 4
+    orig: true
+  rdg:
+    diam: 2
+  skg:
+    diam: 3
+- cone: phyp4a
+  dim: 10
+  oex:
+    num: 50
+    orb: 10
+  oin:
+    num: 40
+    orb: 4
+  rdg:
+    diam: 2
+  skg:
+    diam: 3
+- cone: pmet2
+  dim: 3
+  oex:
+    num: 4
+    orb: 3
+  oin:
+    num: 4
+    orb: 2
+  png: true
+- cone: pmet3
+  dim: 6
+  ead: {}
+  ecd: {}
+  ext: {}
+  iad: {}
+  icd: {}
+  ine: {}
+  oex:
+    num: 13
+    orb: 5
+  oin:
+    num: 12
+    orb: 3
+  rdg:
+    compl: true
+    diam: 2
+    pdf: true
+  skg:
+    diam: 3
+    pdf: true
+- cone: pmet4
+  dim: 10
+  ead: {}
+  ecd: {}
+  ext: {}
+  iad: {}
+  icd: {}
+  ine: {}
+  oex:
+    num: 62
+    orb: 11
+  oin:
+    num: 28
+    orb: 3
+  rdg:
+    diam: 2
+  skg:
+    diam: 3
+- cone: pmet5
+  dim: 15
+  ead: {}
+  ecd: {}
+  ext: {}
+  iad: {}
+  icd: {}
+  ine: {}
+  oex:
+    num: 1696
+    orb: 44
+  oin:
+    num: 55
+    orb: 3
+  rdg:
+    diam: 2
+  skg:
+    diam: 3
+- cone: pmet6
+  dim: 21
+  ine: {}
+  oex:
+    num: 337092
+    orb: 734
+  oin:
+    num: 96
+    orb: 3
+  rdg:
+    diam: 2
+- cone: qmet2
+  dim: 2
+  oex:
+    num: 2
+    orb: 1
+  oin:
+    num: 2
+    orb: 1
+- cone: qmet3
+  dim: 6
+  oex:
+    num: 20
+    orb: 5
+  oin:
+    num: 12
+    orb: 2
+- cone: spmet2
+  dim: 3
+  oex:
+    num: 3
+    orb: 2
+  oin:
+    num: 3
+    orb: 2
+  png: true
+- cone: spmet3
+  dim: 6
+  oex:
+    num: 7
+    orb: 3
+  oin:
+    num: 12
+    orb: 3
+- cone: spmet4
+  dim: 10
+  oex:
+    num: 25
+    orb: 6
+  oin:
+    num: 30
+    orb: 3
+- cone: spmet5
+  dim: 15
+  oex:
+    num: 296
+    orb: 16
+  oin:
+    num: 60
+    orb: 3
+- cone: spmet6
+  dim: 21
+  oex:
+    num: 55226
+    orb: 178
+  oin:
+    num: 105
+    orb: 3
+- cone: wpmet2
+  dim: 3
+  oex:
+    num: 3
+    orb: 2
+  oin:
+    num: 3
+    orb: 2
+  png: true
+- cone: wpmet3
+  dim: 6
+  ead: {}
+  ecd: {}
+  ext: {}
+  iad: {}
+  icd: {}
+  ine: {}
+  oex:
+    num: 6
+    orb: 2
+  oin:
+    num: 6
+    orb: 2
+  rdg:
+    diam: 1
+  skg:
+    diam: 1
+- cone: wpmet4
+  dim: 10
+  oex:
+    num: 11
+    orb: 3
+  oin:
+    num: 16
+    orb: 2
+  rdg:
+    diam: 2
+  skg:
+    diam: 1
+- cone: wpmet5
+  dim: 15
+  oex:
+    num: 30
+    orb: 4
+  oin:
+    num: 35
+    orb: 2
+  rdg:
+    diam: 2
+  skg:
+    diam: 2
+- cone: wpmet6
+  dim: 21
+  ead: {}
+  ecd: {}
+  ext: {}
+  iad: {}
+  icd: {}
+  ine: {}
+  oex:
+    num: 302
+    orb: 9
+  oin:
+    num: 66
+    orb: 2
+  rdg:
+    diam: 2
+  skg:
+    diam: 2
+- cone: wpmet7
+  dim: 28
+  oin:
+    num: 112
+    orb: 2
+- cone: wqmet3
+  dim: 6
+  ead: {}
+  ecd: {}
+  ext: {}
+  iad: {}
+  icd: {}
+  ine: {}
+  'null': 1
+  oex:
+    num: 6
+    orb: 2
+  oin:
+    num: 9
+    orb: 2
+  rdg:
+    diam: 2
+  skg:
+    diam: 1
+- cone: wqmet4
+  dim: 12
+  ead: {}
+  ecd: {}
+  ext: {}
+  iad: {}
+  icd: {}
+  ine: {}
+  'null': 3
+  oex:
+    num: 20
+    orb: 4
+  oin:
+    num: 24
+    orb: 2
+  rdg:
+    diam: 2
+  skg:
+    diam: 2
+- cone: wqmet5
+  dim: 20
+  'null': 6
+  oex:
+    num: 190
+    orb: 11
+  oin:
+    num: 50
+    orb: 2
+  rdg:
+    diam: 2
+  skg:
+    diam: 2
+- cone: wqmet6
+  dim: 30
+  'null': 10
+  oex:
+    num: 18502
+    orb: 77
+  oin:
+    num: 90
+    orb: 2
+  rdg:
+    diam: 2
+- cone: wwqmet3
+  dim: 9
+  'null': 3
+  oex:
+    num: 13
+    orb: 5
+  oin:
+    num: 12
+    orb: 3
+  rdg:
+    diam: 2
+  skg:
+    diam: 3
+- cone: wwqmet4
+  dim: 16
+  'null': 6
+  oex:
+    num: 62
+    orb: 11
+  oin:
+    num: 28
+    orb: 3
+  rdg:
+    diam: 2
+  skg:
+    diam: 3
+- cone: y5
+  dim: 10
+  oex:
+    num: 25
+    orb: 3
+    orig: true
+  oin:
+    num: 30
+    orb: 1
+  rdg:
+    diam: 2
+  skg:
+    diam: 2
+- cone: y6
+  dim: 15
+  oex:
+    num: 206
+    orb: 7
+    orig: true
+  oin:
+    num: 510
+    orb: 3
+  rdg:
+    diam: 3
+  skg:
+    diam: 2

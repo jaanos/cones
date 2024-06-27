@@ -1,0 +1,60 @@
+{% assign dir = "cones" %}
+
+<table>
+  <tr>
+    <th>Cone</th>
+    {% for type in site.data.types %}
+    <th>{{ type.desc }}</th>
+    {% endfor %}
+  </tr>
+  {% for cone in site.data.cones %}
+  <tr>
+    <td valign="bottom">
+      {% if cone.png %}
+      <a href="{{ dir }}/{{ cone.cone }}.png">{{ cone.cone }}</a>
+      {% else %}
+      {{ cone.cone }}
+      {% endif %}
+      {% if cone.dim %}
+      <br />
+      <small>
+        dim. {{ cone.dim }}
+        {% if cone.null %}
+          in <b>R</b><sup>{{ cone.null }}</sup>
+        {% endif %}
+      </small>
+      {% endif %}
+    </td>
+    {% for type in site.data.types %}
+    <td valign="bottom">
+      {% if cone[type.ext] %}
+      <a href="{{ dir }}/{{ cone.cone }}.{{ type.ext }}">{{ type.ext }}</a><br />
+        {% if cone[type.ext].orig %}
+        <a href="{{ dir }}/{{ cone.cone }}.{{ type.ext }}.orig">{{ type.ext }}.orig</a><br />
+        {% endif %}
+        {% if cone[type.ext].pdf %}
+        <a href="{{ dir }}/{{ cone.cone }}.{{ type.ext }}.pdf">{{ type.ext }}.pdf</a><br />
+        {% endif %}
+        {% if cone[type.ext].compl %}
+        <a href="{{ dir }}/{{ cone.cone }}.{{ type.ext }}.compl.pdf">{{ type.ext }}.compl.pdf</a><br />
+        {% endif %}
+        {% if cone[type.ext].num %}
+        <small>
+          {{ cone[type.ext].num }} {{ type.name }}{% if cone[type.ext].num > 1 %}s{% endif %}<br />
+          in {{ cone[type.ext].orb }} orbit{% if cone[type.ext].orb > 1 %}s{% endif %}
+        </small>
+        <br />
+        {% endif %}
+        {% if cone[type.ext].diam %}
+        <small>
+          diameter {{ cone[type.ext].diam }}
+        </small>
+        <br />
+        {% endif %}
+      {% endif %}
+    </td>
+    {% endfor %}
+  </tr>
+  {% endfor %}
+</table>
+

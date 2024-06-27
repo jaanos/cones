@@ -1,0 +1,23 @@
+- ext: oex
+  desc: Orbits of extreme rays
+  name: ext. ray
+- ext: oin
+  desc: Orbits of inequalities
+  name: facet
+- ext: skg
+  desc: Skeleton graph
+- ext: rdg
+  desc: Ridge graph
+- ext: ext
+  desc: Extreme rays
+- ext: ine
+  desc: Inequalities
+- ext: ead
+  desc: Adjacence of extreme rays
+- ext: iad
+  desc: Adjacence of inequalities
+- ext: ecd
+  desc: Incidence of generators and inequalities
+- ext: icd
+  desc: Incidence of inequalities and generators
+
