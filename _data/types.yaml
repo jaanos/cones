@@ -13,9 +13,9 @@
 - ext: ine
   desc: Inequalities
 - ext: ead
-  desc: Adjacence of extreme rays
+  desc: Adjacency of extreme rays
 - ext: iad
-  desc: Adjacence of inequalities
+  desc: Adjacency of inequalities
 - ext: ecd
   desc: Incidence of generators and inequalities
 - ext: icd
